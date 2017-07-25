@@ -10,3 +10,6 @@ It consists of a number of cells, each can be in one of two states:dead or alive
 4. Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
 
 Set up starting state by clicking on a cell. This will change its state. Then click "Start" to see how the system develops.
+
+Here is a link to the website with it:
+https://tduchnowski.github.io/GameOfLife/gameoflifeV2
